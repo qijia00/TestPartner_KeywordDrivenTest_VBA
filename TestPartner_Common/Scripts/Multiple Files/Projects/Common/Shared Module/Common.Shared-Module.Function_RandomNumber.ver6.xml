@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestPartnerAssets version="6.3.0.153" xmlns:dt="urn:schemas-microsoft-com:datatypes"><Projects><Project ProjectName="Common"><SharedModules><SharedModule Name="Function_RandomNumber" ActiveVersion="1" Version="6"><CTPObject><CreatorName dt:dt="string" xml:space="preserve">Admin</CreatorName><CreationDate dt:dt="string" xml:space="preserve">2011-03-22T11:07:43</CreationDate><LastModifierName dt:dt="string" xml:space="preserve">Admin</LastModifierName><LastModifiedDate dt:dt="string" xml:space="preserve">2011-05-16T13:38:06</LastModifiedDate><Type dt:dt="i4">22</Type><ProjectName dt:dt="string" xml:space="preserve">Common</ProjectName><Flags dt:dt="i4">2</Flags><CreatedBySchema dt:dt="i4">87</CreatedBySchema><Description dt:dt="string">
+</Description></CTPObject><CTPScript><Text dt:dt="string" Encoding="Base64">RgB1AG4AYwB0AGkAbwBuACAAUgBhAG4AZABvAG0ATgB1AG0AYgBlAHIAKABMAG8AdwBlAHMAdAAg
+AEEAcwAgAEwAbwBuAGcALAAgAEgAaQBnAGgAZQBzAHQAIABBAHMAIABMAG8AbgBnACwAIABPAHAA
+dABpAG8AbgBhAGwAIABEAGUAYwBpAG0AYQBsAHMAIABBAHMAIABJAG4AdABlAGcAZQByACkADQAK
+AA0ACgAgACAAIABJAGYAIABJAHMATQBpAHMAcwBpAG4AZwAoAEQAZQBjAGkAbQBhAGwAcwApACAA
+TwByACAARABlAGMAaQBtAGEAbABzACAAPQAgADAAIABUAGgAZQBuAA0ACgAgACAAIAAgACAAIABS
+AGEAbgBkAG8AbQBpAHoAZQANAAoAIAAgACAAIAAgACAAUgBhAG4AZABvAG0ATgB1AG0AYgBlAHIA
+IAA9ACAASQBuAHQAKAAoAEgAaQBnAGgAZQBzAHQAIAArACAAMQAgAC0AIABMAG8AdwBlAHMAdAAp
+ACAAKgAgAFIAbgBkACAAKwAgAEwAbwB3AGUAcwB0ACkADQAKACAAIAAgAEUAbABzAGUADQAKACAA
+IAAgACAAIAAgAFIAYQBuAGQAbwBtAGkAegBlAA0ACgAgACAAIAAgACAAIABSAGEAbgBkAG8AbQBO
+AHUAbQBiAGUAcgAgAD0AIABSAG8AdQBuAGQAKAAoAEgAaQBnAGgAZQBzAHQAIAAtACAATABvAHcA
+ZQBzAHQAKQAgACoAIABSAG4AZAAgACsAIABMAG8AdwBlAHMAdAAsACAARABlAGMAaQBtAGEAbABz
+ACkADQAKACAAIAAgAEUAbgBkACAASQBmAA0ACgAgACAAIAANAAoARQBuAGQAIABGAHUAbgBjAHQA
+aQBvAG4ADQAKAA==</Text><References dt:dt="string" xml:space="preserve">{00020813-0000-0000-C000-000000000046}~1~5*{530E2D95-1367-11D3-AD5B-006008D30C20}~1~0</References></CTPScript></SharedModule></SharedModules></Project></Projects></TestPartnerAssets>

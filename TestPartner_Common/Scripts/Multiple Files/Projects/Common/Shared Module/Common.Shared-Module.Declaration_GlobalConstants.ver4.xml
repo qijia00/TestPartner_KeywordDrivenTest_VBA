@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestPartnerAssets version="6.3.0.153" xmlns:dt="urn:schemas-microsoft-com:datatypes"><Projects><Project ProjectName="Common"><SharedModules><SharedModule Name="Declaration_GlobalConstants" ActiveVersion="1" Version="4"><CTPObject><CreatorName dt:dt="string" xml:space="preserve">Admin</CreatorName><CreationDate dt:dt="string" xml:space="preserve">2011-03-31T14:07:00</CreationDate><LastModifierName dt:dt="string" xml:space="preserve">Admin</LastModifierName><LastModifiedDate dt:dt="string" xml:space="preserve">2011-05-16T13:38:06</LastModifiedDate><Type dt:dt="i4">22</Type><ProjectName dt:dt="string" xml:space="preserve">Common</ProjectName><Flags dt:dt="i4">2</Flags><CreatedBySchema dt:dt="i4">87</CreatedBySchema><Description dt:dt="string">
+</Description></CTPObject><CTPScript><Text dt:dt="string" Encoding="Base64">JwBQAHIAbwBqAGUAYwB0ACAAIgBNAGUAYQBzAHUAcgBlAG0AZQBuAHQAUABhAGMAawBhAGcAZQAi
+AA0ACgBQAHUAYgBsAGkAYwAgAEMAbwBuAHMAdAAgAEUAeABjAGUAbABGAGkAbABlAFAAYQB0AGgA
+XwBNAGUAYQBzAHUAcgBlAG0AZQBuAHQASQBuAHAAdQB0ACAAPQAgACIAQwA6AFwARABvAGMAdQBt
+AGUAbgB0AHMAIABhAG4AZAAgAFMAZQB0AHQAaQBuAGcAcwBcAHEAYQBnAGUAbgAuAE0AUwBQAEQA
+QwBTAEUAUgBWAEUAUgBcAEQAZQBzAGsAdABvAHAAXABQAHIAbwBqAGUAYwB0AE0AZQBhAHMAdQBy
+AGUAbQBlAG4AdABQAGEAYwBrAGEAZwBlAFwATQBlAGEAcwB1AHIAZQBtAGUAbgB0AEkAbgBwAHUA
+dAAuAHgAbABzACIADQAKAA0ACgBQAHUAYgBsAGkAYwAgAEMAbwBuAHMAdAAgAEUAeABjAGUAbABG
+AGkAbABlAFAAYQB0AGgAXwBNAGUAYQBzAHUAcgBlAG0AZQBuAHQATwB1AHQAcAB1AHQAIAA9ACAA
+IgBDADoAXABEAG8AYwB1AG0AZQBuAHQAcwAgAGEAbgBkACAAUwBlAHQAdABpAG4AZwBzAFwAcQBh
+AGcAZQBuAC4ATQBTAFAARABDAFMARQBSAFYARQBSAFwARABlAHMAawB0AG8AcABcAFAAcgBvAGoA
+ZQBjAHQATQBlAGEAcwB1AHIAZQBtAGUAbgB0AFAAYQBjAGsAYQBnAGUAXABNAGUAYQBzAHUAcgBl
+AG0AZQBuAHQATwB1AHQAcAB1AHQALgB4AGwAcwAiAA0ACgANAAoAJwBQAHIAbwBqAGUAYwB0ACAA
+IgBFAHgAcABvAHIAdAAiAA0ACgBQAHUAYgBsAGkAYwAgAEMAbwBuAHMAdAAgAEUAeABjAGUAbABG
+AGkAbABlAFAAYQB0AGgAXwBFAHgAcABvAHIAdAAgAD0AIAAiAEMAOgBcAEQAbwBjAHUAbQBlAG4A
+dABzACAAYQBuAGQAIABTAGUAdAB0AGkAbgBnAHMAXABxAGEAZwBlAG4ALgBNAFMAUABEAEMAUwBF
+AFIAVgBFAFIAXABEAGUAcwBrAHQAbwBwAFwAUAByAG8AagBlAGMAdABFAHgAcABvAHIAdABcAEUA
+eABjAGUAbABcAEUAeABwAG8AcgB0AC4AeABsAHMAIgA=</Text><References dt:dt="string" xml:space="preserve">{530E2D95-1367-11D3-AD5B-006008D30C20}~1~0*{00020813-0000-0000-C000-000000000046}~1~5</References></CTPScript></SharedModule></SharedModules></Project></Projects></TestPartnerAssets>
